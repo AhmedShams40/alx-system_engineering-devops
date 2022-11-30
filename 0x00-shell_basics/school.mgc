@@ -1,3 +1,4 @@
+echo '
 #0-current_working_directory#: text/plain
 0-current_working_directory:   text/plain
 100-lets_move:                 text/plain
@@ -54,3 +55,4 @@ file_test0:                    empty
 h_school.mgc:                  data
 README.md:                     ASCII text
 school.mgc:                    ASCII text
+'
